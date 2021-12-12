@@ -1,0 +1,42 @@
+.signup {
+    
+    background: #151c25;
+    
+    
+    
+   
+    align-items: center;
+    text-align: center;
+}
+
+.signup > input {
+    border-radius: 3px;
+    background: #151c25;
+    border: 1px solid #229774;
+    outline: none;
+    color: white;
+    margin: 0.5rem 0;
+    padding: 0.5rem 0.75rem;
+    width: 300px;
+    font-size: 1rem;
+}
+
+.signup > .button {
+    background: #229774;
+    border: 1px solid #229774;
+    color: #fff;
+    font-size: 15px;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 3px;
+    outline: none;
+    cursor: pointer;
+}
+.signup > h1 {
+    background: #151c25;
+    text-align: -webkit-left;
+    color: white;
+    margin-left: 13px;
+    font-size: x-small;
+
+}
